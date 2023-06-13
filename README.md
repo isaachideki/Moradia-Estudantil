@@ -1,2 +1,2 @@
 # moradia-estudantil
-site criado para ajudar integrantes a encontrarem suas moradias estudantis
+site criado para ajudar estudantes a encontrarem suas moradias estudantis
